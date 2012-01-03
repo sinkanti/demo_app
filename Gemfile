@@ -7,7 +7,7 @@ gem 'rails', '3.1.1'
 
 gem 'sqlite3','1.3.3', :group => :development
 
-gem install 'active-record-postgresql-adapter'
+gem 'activerecord-postgresql-adapter'
 
 # Gems used only for assets and not required
 # in production environments by default.
